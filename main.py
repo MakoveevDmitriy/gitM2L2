@@ -125,4 +125,4 @@ async def command(ctx):
     await ctx.send('есть функции: hello, heh, passvord, money, command, duck, dogs, mem, prostokvahino, musor, ekologia')
 
 
-bot.run("MTEwNDY3NDAyMjc5NDQ2NTM4MA.Gymkq_.Cp96CgTfcAchTcfDdusRcgksBG5Z3KcSgeYmZ4")
+bot.run("ТОКЕН")
